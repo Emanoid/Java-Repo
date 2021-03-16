@@ -1,0 +1,2 @@
+module Dining_Philosophers {
+}
